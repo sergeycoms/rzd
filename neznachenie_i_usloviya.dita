@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="neznachenie_i_usloviya">
-    <title>Neznachenie i usloviya</title>
+    <title>Назначение и условия применения</title>
     <body>
-        <p></p>
+        <p>Сервис предназначена для автоматизации следующих видов деятельности:</p>
+        <ul id="ul_kqc_t15_frb">
+            <li>Подбор доступных рейсов по указанному пользователем маршруту;</li>
+            <li>Подбор мест для проезда пассажиров;</li>
+            <li>Выбор дополнительных условий проезда;</li>
+            <li>Оформление билетов для пассажиров и багажа;</li>
+            <li>Оплата билета;</li>
+            <li>Формирование и доставка электронного чека.</li>
+        </ul>
     </body>
 </topic>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="kratkoe_opisanie_vozmojnostei">
-    <title>Kratkoe opisanie vozmojnostei</title>
+    <title>Краткое описание возможностей</title>
     <body>
-        <p></p>
+        <p>Сервис позволяет на основе данных о маршруте подобрать необходимый рейс, условия проезда
+            и приобрести электронный билет.</p>
     </body>
 </topic>

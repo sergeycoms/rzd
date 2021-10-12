@@ -9,5 +9,6 @@
     <topicref href="podgotovka_k_rabote.dita"/>
     <topicref href="opisanie_operaciy.dita">
         <topicref href="vhod_na_sait.dita"/>
+        <topicref href="prinyat_cookie_files.dita"/>
     </topicref>
 </map>

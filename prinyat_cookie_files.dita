@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="prinyat_cookie_files">
-    <title>Prinyat cookie files</title>
+    <title>Принять cookie-файлы</title>
     <body>
-        <p></p>
+        <p>Вы можете принять cookie-файлы для запоминание сайтом ваших данных, которые вы укажите в
+            дальнейшем, в том числе при оформлении билета, чтобы их не потерять, в случае если вы
+            случайно закроете сайт. </p>
+        <p>Чтобы принять cookie-файлы необходимо нажать на кнопку «Принять» расположенную в нижней
+            части экрана сайта (рисунок 1).</p>
+        <p>
+            <fig id="fig_nsm_445_frb">
+                <image placement="break" href="images/image1.png" width="635" align="center"
+                    id="image_osm_445_frb">
+                    <alt>Рисунок 1. Принять куки-файлы</alt>
+                </image>
+            </fig>
+        </p>
     </body>
 </topic>

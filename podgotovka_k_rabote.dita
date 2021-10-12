@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="podgotovka_k_rabote">
-    <title>Podgotovka k rabote</title>
+    <title>Подготовка к работе</title>
     <body>
-        <p></p>
+        <p>Для работы с сервисом требуется компьютер или телефон, подключённый к интернету и
+            позволяющий запустить веб-браузер.</p>
+        <p>Взаимодействие с сайтом разрешается только с использованием стандартных
+            программ-браузеров:</p>
+        <p>- Google Chrome версии 80 и выше;</p>
+        <p>- Яндекс.Браузер версии 20 и выше;</p>
+        <p>- Opera версии 67 и выше;</p>
+        <p>- Firefox версии 75 и выше;</p>
+        <p>- Edge версии 18 и выше;</p>
+        <p>- Safari версии 12 и выше.</p>
     </body>
 </topic>

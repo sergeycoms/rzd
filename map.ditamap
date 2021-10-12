@@ -17,6 +17,7 @@
         <topicref href="vybor_reisa.dita">
             <topicref href="filtraciya_reisov.dita"/>
             <topicref href="sortirova_spiska_reisov.dita"/>
+            <topicref href="kartochka_reisa.dita"/>
         </topicref>
     </topicref>
 </map>

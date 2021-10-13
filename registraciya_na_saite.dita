@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="registraciya_na_saite">
-    <title>Registraciya na saite</title>
+    <title>Регистрация на сайте</title>
     <body>
-        <p></p>
+        <p>Регистрация на сайте необходимо для выбора условий проезда по данным маршрута и покупки
+            электронного билета.</p>
+        <p>Для того, чтобы зарегистрироваться на сайте, необходимо нажать на кнопку «Вход»,
+            расположенную в правой верхней части сайта (рисунок 2).</p>
+        <p>
+            <image placement="break" href="images/image2.png" width="635" align="center"
+                id="image_xxn_zs1_grb">
+                <alt>Рисунок 2. Расположение кнопки вход</alt>
+            </image>
+        </p>
+        <p>В появившемся окне нажать на слово «Регистрация» (рисунок 3)</p>
+        <p>
+            <image placement="break" href="images/image3.png" width="635" align="center"
+                id="image_z5c_gt1_grb">
+                <alt>Рисунок 3. Расположение кнопки «Регистрация»</alt>
+            </image>
+        </p>
+        <p>В следующем окне вы увидите форму регистрации (рисунок 4).</p>
+        <p>
+            <image placement="break" href="images/image4.png" width="635" align="center"
+                id="image_f3k_lt1_grb">
+                <alt>Рисунок 4. Форма регистрации</alt>
+            </image>
+        </p>
+        <p>Необходимо заполнить обязательные поля со звёздочкой (*) и поставить галочку на чек-боксе
+            в поле «Даю своё согласие ОАО «РЖД» на обработку представ­ленных мной персональных
+            данных. Политика обработки персональных данных в ОАО «РЖД» (рисунок 5). </p>
+        <p>При наведении на знак вопроса рядом с заголовком поля откроется требование к заполнению. </p>
+        <p>По завершению нажать на кнопку «Зарегистрироваться».</p>
+        <p>
+            <image placement="break" href="images/image5.png" width="635" align="center"
+                id="image_qrp_qt1_grb">
+                <alt>Рисунок 5. Согласие на обработку персональных данных</alt>
+            </image>
+        </p>
+        <p>При успешной регистрации откроется информационное окно (рисунок 6).</p>
+        <p>
+            <image placement="break" href="images/image6.png" width="635" align="center"
+                id="image_jzg_5t1_grb">
+                <alt>Рисунок 6. Окно успешной регистрации</alt>
+            </image>
+        </p>
     </body>
 </topic>

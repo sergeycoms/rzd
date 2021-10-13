@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="sortirova_spiska_reisov">
-    <title>sortirova spiska reisov</title>
+    <title>Сортировка списка рейса</title>
     <body>
-        <p></p>
+        <p>Справа от боковой панели фильтрации и над списком рейсов, можно выбрать вариант
+            сортировки списка рейсов (рисунок 15). На выбор четыре варианта:</p>
+        <ul id="ul_ppy_mw1_grb">
+            <li>По времени отправления</li>
+            <li>По времени прибытия</li>
+            <li>По стоимости</li>
+            <li>По времени в пути</li>
+        </ul>
+        <p>
+            <image placement="break" href="images/image15.png" width="635" align="center"
+                id="image_awn_qw1_grb">
+                <alt>Рисунок 15. Сортировки списка рейсов</alt>
+            </image>
+        </p>
     </body>
 </topic>

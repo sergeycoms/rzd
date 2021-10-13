@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="vybor_reisa">
-    <title>Vybor reisa</title>
+    <title>Выбор рейса</title>
     <body>
-        <p></p>
+        <p>В верхней части сайта вы увидите данные вашего маршрута, заданные на главной странице
+            (рисунок 12). На основе указанного маршрута формируется список рейсов, располагающихся
+            под ним.</p>
+        <p>
+            <image placement="break" href="images/image12.png" width="635" align="center"
+                id="image_srj_5v1_grb">
+                <alt>Рисунок 12. Данные маршрута на странице выбора рейса</alt>
+            </image>
+        </p>
+        <p>В список можно добавить рейсы с пересадками или другими видами транспорта, нажав на
+            кнопку «найти» справа у заголовка «Рейсы с пересадками» (рисунок 13).</p>
+        <p>
+            <image placement="break" href="images/image13.png" width="635" align="center"
+                id="image_nkb_wv1_grb">
+                <alt>Рисунок 13. Рейсы с пересадками</alt>
+            </image>
+        </p>
     </body>
 </topic>

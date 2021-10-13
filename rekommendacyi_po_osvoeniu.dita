@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="rekommendacyi_po_osvoeniu">
-    <title>Rekommendacyi po osvoeniu</title>
+    <title>Рекоммендации по освоению</title>
     <body>
-        <p></p>
+        <p>Рекомендуется ознакомиться со всеми разделами данному руководства. А также, материалами
+            по ссылкам:</p>
+        <p>О сайте</p>
+        <p><xref href="https://company.rzd.ru/ru/9536" format="html" scope="external"
+                >https://company.rzd.ru/ru/9536</xref></p>
+        <p>Бонусная программа</p>
+        <p><xref href="https://rzd-bonus.ru/#main" format="html" scope="external"
+                >https://rzd-bonus.ru/#main</xref></p>
+        <p>Акции</p>
+        <p><xref href="https://www.rzd.ru/ru/9331" format="html" scope="external"
+                >https://www.rzd.ru/ru/9331</xref></p>
+        <p>Политика обработки персональных данных на сайте </p>
+        <p><xref href="https://company.rzd.ru/ru/9353/page/105104?id=1732" format="html"
+                scope="external">https://company.rzd.ru/ru/9353/page/105104?id=1732</xref></p>
+        <p>Файлы «COOKIES»</p>
+        <p><xref href="https://company.rzd.ru/ru/9536/page/103290?id=18491" format="html"
+                scope="external">https://company.rzd.ru/ru/9536/page/103290?id=18491</xref></p>
     </body>
 </topic>

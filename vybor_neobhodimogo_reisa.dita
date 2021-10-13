@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="vybor_neobhodimogo_reisa">
-    <title>Vybor neobhodimogo reisa</title>
+    <title>Выбор необходимого рейса</title>
     <body>
-        <p></p>
+        <p>Выбор рейса из списка осуществляется путём нажатия на карточку рейса (рисунок 16). После
+            чего, произойдёт переход на страницу выбора класса обслуживания для поезда.</p>
+        <p> </p>
+        <p>Обратите внимание вошли ли вы в личный кабинет. Если в правом верхнем углу экрана вы
+            видите кнопку «войти» (рисунок 18), значит автоматического входа в личный профиль на
+            данной странице не произошло, тогда нужно нажать на указанную кнопку текущей страницы и
+            ввести данные от личного профиля. Также, можно войти через вашу учётную запись на
+            портале <xref href="https://www.gosuslugi.ru/" format="html" scope="external"
+                >https://www.gosuslugi.ru/</xref>, нажав на кнопку «госуслуги».</p>
+        <p>
+            <image placement="break" href="images/image18.png" width="400" align="center"
+                id="image_dll_3x1_grb">
+                <alt>Рисунок 18. Авторизация</alt>
+            </image>
+        </p>
     </body>
 </topic>

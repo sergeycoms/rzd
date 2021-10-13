@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="vhod_v_lichniy_kabinet">
-    <title>Vhod v lichniy kabinet</title>
+    <title>Вход в личный кабинет</title>
     <body>
-        <p></p>
+        <p>Нажать на кнопку «Вход» (рисунок 3), в появившемся окне (рисунок 9) заполнить данные
+            «логин», «пароль» указанные при регистрации, после чего нажать на кнопку «Войти».</p>
+        <p>
+            <image placement="break" href="images/image9.png" width="635" align="center"
+                id="image_bjx_y51_grb">
+                <alt>Рисунок 9. Окно авторизации</alt>
+            </image>
+        </p>
+        <p>Если пароль забыт, то можно воспользоваться функцией восстановление пароля, нажав строку
+            «Забыли пароль?» в окне авторизации (рисунок 9) и проследовав указанной инструкции.</p>
     </body>
 </topic>

@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="filtraciya_reisov">
-    <title>Filtraciya reisov</title>
+    <title>Фильтрация рейсов</title>
     <body>
-        <p></p>
+        <p>В левой части сайта вы увидите боковую панель с возможностью фильтрации рейсов по
+            заданным параметрам (рисунок 14):</p>
+        <ul id="ul_gcd_cw1_grb">
+            <li>стоимость</li>
+            <li>время в пути</li>
+            <li>отправление</li>
+            <li>прибытие</li>
+            <li>поезд</li>
+            <li>класс обслуживания</li>
+            <li>тип поезда</li>
+            <li>по услугам</li>
+            <li>по наименованию</li>
+            <li>льготный проезд</li>
+        </ul>
+        <p>Фильтры задаются путём перемещения красного ползунка (точки) и проставлением галочек в
+            чек-боксах.</p>
+        <p>
+            <image placement="break" href="images/image14.png" width="400" align="center"
+                id="image_x12_fw1_grb">
+                <alt>Рисунок 14. Фильтрация параметров рейса</alt>
+            </image>
+        </p>
     </body>
 </topic>

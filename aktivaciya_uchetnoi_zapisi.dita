@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="aktivaciya_uchetnoi_zapisi">
-    <title>Aktivaciya uchetnoi zapisi</title>
+    <title>Активация учётной записи</title>
     <body>
-        <p></p>
+        <p>Для того, чтобы активировать профиль зарегистрированной учётной записи, необходимо
+            перейти на указанный в поле e-mail адрес при регистрации и найти письмо от
+            «noreply@rzd.ru», с инструкцией по активации профиля и выполнить её (рисунок 7).</p>
+        <p>
+            <image placement="break" href="images/image7.png" width="635" align="center"
+                id="image_myn_251_grb">
+                <alt>Рисунок 7. Письмо с инструкцией по активации профиля</alt>
+            </image>
+        </p>
+        <p>При успешной активации профиля по инструкции в письме, вы будете перенаправлены на сайт
+                <xref
+                href="file:///C:/Users/isvco/AppData/Local/Microsoft/Office/UnsavedFiles/rzd.ru"
+                format="ru" scope="external">rzd.ru</xref>, где появиться окно, сообщающее о успешно
+            активации (рисунок 8).</p>
+        <p>
+            <image placement="break" href="images/image8.png" width="635" align="center"
+                id="image_jfj_j51_grb">
+                <alt>Рисунок 8. Окно успешной активации профиля</alt>
+            </image>
+        </p>
+        <p>В данном окне, на рисунке 8, вы можете нажать вход и перейти к авторизации на сайте.
+            После чего откроется окно авторизации, где можно ввести данные «логин» и «пароль»
+            указанные при регистрации.</p>
     </body>
 </topic>

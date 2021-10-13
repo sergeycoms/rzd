@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="danniye_o_posajyrah_k_otpravleniu">
-    <title>Danniye o posajyrah k otpravleniu</title>
+    <title>Данные пассажирах к отправлению</title>
     <body>
-        <p></p>
+        <p>
+            <image placement="break" href="images/image22.png" width="635" align="center"
+                id="image_rwb_2y1_grb">
+                <alt>Рисунок 22. Данные о пассажирах к отправлению</alt>
+            </image>
+        </p>
+        <p>На данной странице представлена карточка данных для всех пассажиров (рисунок 22). Можно
+            ввести данные нового пассажира или выбрать уже имеющиеся, тогда вместо кнопки «ввести
+            данные» будет «выбрать пассажира». </p>
+        <p>Чтобы ввести данные нового пассажира, нажмите на кнопку «ввести данные». Откроется
+            страница «Данные пассажира.</p>
     </body>
 </topic>

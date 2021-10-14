@@ -20,7 +20,7 @@
         <p>Фильтры задаются путём перемещения красного ползунка (точки) и проставлением галочек в
             чек-боксах.</p>
         <p>
-            <image placement="break" href="images/image14.png" width="400" align="center"
+            <image placement="break" href="images/image14.png" width="250" align="center"
                 id="image_x12_fw1_grb">
                 <alt>Рисунок 14. Фильтрация параметров рейса</alt>
             </image>

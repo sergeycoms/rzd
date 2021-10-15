@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="vhod_v_lichniy_kabinet">
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="vhod_v_lichniy_kabinet">
     <title>Вход в личный кабинет</title>
-    <body>
-        <p>Нажать на кнопку «Вход» (рисунок 3), в появившемся окне (рисунок 9) заполнить данные
-            «логин», «пароль» указанные при регистрации, после чего нажать на кнопку «Войти».</p>
-        <p>
-            <image placement="break" href="images/image9.png" width="635" align="center"
-                id="image_bjx_y51_grb">
-                <alt>Рисунок 9. Окно авторизации</alt>
-            </image>
-        </p>
-        <p>Если пароль забыт, то можно воспользоваться функцией восстановление пароля, нажав строку
-            «Забыли пароль?» в окне авторизации (рисунок 9) и проследовав указанной инструкции.</p>
-    </body>
-</topic>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Нажать на кнопку «Вход» (рисунок 3).</cmd>
+                <stepresult>Появивится окно (рисунок 9).<image placement="break" href="images/image9.png" width="635" align="center"
+                    id="image_bjx_y51_grb">
+                    <alt>Рисунок 9. Окно авторизации</alt>
+                </image></stepresult>
+            </step>
+                <step>
+                    <cmd>Заполнить "Логин".</cmd>
+                    <info>Логин необходим тот, который был указан при регистрации.</info>
+                </step>
+                <step>
+                    <cmd>Заполнить "Пароль".</cmd>
+                    <info>Пароль необходим тот, который был указан при регистрации.</info>
+                    <info><note type="notice">Если пароль забыт, то можно воспользоваться функцией восстановление пароля, нажав строку
+                        «Забыли пароль?» в окне авторизации (рисунок 9) и проследовав указанной инструкции.</note></info>
+                </step>
+            
+            <step>
+                <cmd>Нажать на кнопку «Войти».</cmd>
+            </step> 
+        </steps>
+    </taskbody>
+</task>

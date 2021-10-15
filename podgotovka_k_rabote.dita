@@ -13,5 +13,53 @@
         <p>- Firefox версии 75 и выше;</p>
         <p>- Edge версии 18 и выше;</p>
         <p>- Safari версии 12 и выше.</p>
+        
+        <table>
+        <title>Совместимость сайта с браузерами</title>
+        <tgroup cols="2">
+            <colspec colname="c1" colnum="1" colwidth="2*"/>
+            <colspec colname="c2" colnum="2" colwidth="3*"/>
+            <thead>
+                <row>
+                    <entry>Браузер</entry>
+                    <entry>Версия</entry>
+                </row>
+            </thead>
+            <tbody>
+                <row>
+                        <entry>Google Chrome</entry>
+                    <entry>80 и выше.</entry>
+                </row>
+                <row>
+                        <entry>Яндекс.Браузер</entry>
+                    <entry>20 и выше.</entry>
+                </row>
+                <row>
+                    <entry>Opera</entry>
+                    <entry>67 и выше.</entry>
+                </row>
+                <row>
+                    <entry>Firefox</entry>
+                    <entry>75 и выше.</entry>
+                </row>
+                <row>
+                    <entry>Edge</entry>
+                    <entry>18 и выше.</entry>
+                </row>
+                <row>
+                    <entry morerows="1">Safari</entry>
+                    <entry>MacOS 12 и выше.</entry>
+                </row>
+                <row>
+                    <entry>Windows 11 и выше.</entry>
+                </row>
+                <row>
+                    <entry namest="c1" nameend="c2">Сайт может работать в неуказанных браузерах, но
+                            не гарантирует полную работоспособность.</entry>
+                </row>
+            </tbody>
+        </tgroup>
+        </table>
+        
     </body>
 </topic>

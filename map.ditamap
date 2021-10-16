@@ -44,19 +44,44 @@
             <relcolspec type="reference"/>
         </relheader>
         <relrow>
-            <relcell/>
-            <relcell/>
-            <relcell/>
-        </relrow>
-        <relrow>
-            <relcell/>
-            <relcell/>
-            <relcell/>
-        </relrow>
-        <relrow>
-            <relcell/>
-            <relcell/>
-            <relcell/>
+            <relcell>
+                <topicref href="1_rukovodstvo.dita"/>
+                    <topicref href="anotaciya.dita"/>
+                <topicref href="vvedenie.dita">
+                    <topicref href="oblast_primeneniya.dita"/>
+                    <topicref href="kratkoe_opisanie_vozmojnostei.dita"/>
+                    <topicref href="uroven_podgotovki_polzovatelya.dita"/>
+                </topicref>
+                <topicref href="neznachenie_i_usloviya.dita"/>
+                <topicref href="opisanie_operaciy.dita">
+                    <topicref href="vhod_na_sait.dita"/>
+                    <topicref href="prinyat_cookie_files.dita"/>
+                    <topicref href="registraciya_na_saite.dita"/>
+                    <topicref href="aktivaciya_uchetnoi_zapisi.dita"/>
+                    <topicref href="vvod_marshruta.dita"/>
+                    <topicref href="vybor_reisa.dita">
+                        <topicref href="filtraciya_reisov.dita"/>
+                        <topicref href="sortirova_spiska_reisov.dita"/>
+                        <topicref href="kartochka_reisa.dita"/>
+                        <topicref href="vybor_neobhodimogo_reisa.dita"/>
+                    </topicref>
+                    <topicref href="vibor_klassa_obslujivaniya_dlya_poezda.dita"/>
+                    <topicref href="vybor_mesta.dita"/>
+                    <topicref href="danniye_o_posajyrah_k_otpravleniu.dita">
+                        <topicref href="vvod_dannyh_o_posajyre.dita"/>
+                        <topicref href="kartochka_s_vybrannymi_passajirami.dita"/>
+                    </topicref>
+                    <topicref href="vibor_obratnogo_reisa.dita"/>
+                    <topicref href="oformlenie_zakaza.dita"/>
+                    <topicref href="oplata_bileta.dita"/>
+                </topicref>
+            </relcell>
+            <relcell>
+                <topicref href="vhod_v_lichniy_kabinet.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="podgotovka_k_rabote.dita"/>
+            </relcell>
         </relrow>
     </reltable>
 </map>

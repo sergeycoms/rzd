@@ -27,7 +27,7 @@
             <simpletable>
                 <sthead>
                     <stentry>Цвет</stentry>
-                    <stentry>Возможно продажи билетов</stentry>
+                    <stentry>Продажа билета возможна</stentry>
                 </sthead>
                 <strow>
                     <stentry>Красный</stentry>

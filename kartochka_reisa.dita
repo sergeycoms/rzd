@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="kartochka_reisa">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="kartochka_reisa">
     <title>Карточка рейса</title>
-    <body>
+    <conbody>
         <p>В центральной части страницы отображается список рейсов, представленный в виде карточек
             рейса с подробной информацией (рисунок 16). При наведении на элементы карточки,
             откроется всплывающее окно с уточняющей информацией.</p>
@@ -19,5 +19,5 @@
                 <alt>Рисунок 17. Поделиться ссылкой на карточку рейса</alt>
             </image>
         </p>
-    </body>
-</topic>
+    </conbody>
+</concept>

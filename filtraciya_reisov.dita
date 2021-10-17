@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="filtraciya_reisov">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="filtraciya_reisov">
     <title>Фильтрация рейсов</title>
-    <body>
+    <conbody>
         <p>В левой части сайта вы увидите боковую панель с возможностью фильтрации рейсов по
             заданным параметрам (рисунок 14):</p>
         <ul id="ul_gcd_cw1_grb">
@@ -25,5 +25,5 @@
                 <alt>Рисунок 14. Фильтрация параметров рейса</alt>
             </image>
         </p>
-    </body>
-</topic>
+    </conbody>
+</concept>

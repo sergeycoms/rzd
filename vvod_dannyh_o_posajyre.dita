@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="vvod_dannyh_o_posajyre">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="vvod_dannyh_o_posajyre">
     <title>Ввод данных о пассажире</title>
-    <body>
+    <conbody>
         <p>Для ввода данных есть три категории:</p>
         <ul id="ul_kvg_ky1_grb">
             <li>Документы и контакты</li>
@@ -12,5 +12,5 @@
         <p>В каждой категории есть разделы. В разделах необходимо заполнить обязательные поля,
             имеющие в своём названии символ «*». После заполнения нажмите «продолжить» и вы
             перейдёте на страницу карточки с заполненными данными о пассажирах.</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

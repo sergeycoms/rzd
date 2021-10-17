@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map id = "keydefs">
     <title>submap-keys</title>
-    <keydef keyref="1_rukovodstvo"/>
+    <keydef  keys = "image1"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image2"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image3"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image4"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image5"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image6"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image7"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image8"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image9"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image10"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image11"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image12"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image13"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image14"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image15"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image16"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image17"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image18"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image19"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image20"  href = "../DITA/images/image1.png"  format = "png" />
+    <keydef  keys = "image21"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image22"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image23"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image24"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image25"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image26"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image27"  href = "../DITA/images/image1.png"  format = "png" /> 
+    <keydef  keys = "image28"  href = "../DITA/images/image1.png"  format = "png" /> 
 </map>

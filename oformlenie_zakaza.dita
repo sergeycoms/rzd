@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="oformlenie_zakaza">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="oformlenie_zakaza">
     <title>Оформление заказа</title>
-    <body>
+    <conbody>
         <p>При нажатии на кнопку «оформить заказ», откроется окно, где необходимо ввести номер
             телефона (рисунок 26), если ранее он не был введён на странице данных о пассажире.</p>
         <p>
@@ -25,5 +25,5 @@
                 <alt>Рисунок 27. Заполнение обязательных данных о заказе</alt>
             </image>
         </p>
-    </body>
-</topic>
+    </conbody>
+</concept>

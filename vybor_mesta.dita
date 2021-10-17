@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="vybor_mesta">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="vybor_mesta">
     <title>Выбор места</title>
-    <body>
+    <conbody>
         <p>
             <image placement="break" href="images/image21.png" width="635" align="center"
                 id="image_p2h_xx1_grb">
@@ -20,5 +20,5 @@
         <p>После выбора мест, на карточке, в левом нижнем углу, отобразится их количество и
             стоимость. </p>
         <p>Для перехода к данным о пассажирах нажмите «продолжить».</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

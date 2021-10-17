@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="prinyat_cookie_files">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="prinyat_cookie_files">
     <title>Принять cookie-файлы</title>
-    <body>
+    <conbody>
         <p>Вы можете принять cookie-файлы для запоминание сайтом ваших данных, которые вы укажите в
             дальнейшем, в том числе при оформлении билета, чтобы их не потерять, в случае если вы
             случайно закроете сайт. </p>
@@ -16,5 +16,5 @@
                 </image>
             </fig>
         </p>
-    </body>
-</topic>
+    </conbody>
+</concept>

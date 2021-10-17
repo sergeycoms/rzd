@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="oblast_primeneniya">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="oblast_primeneniya">
     <title>Область применения</title>
-    <body>
+    <conbody>
         <p>Сервис осуществляет свою деятельность в области перевозки пассажиров, грузов, багажа и
             грузобагажа железнодорожным транспортом общего пользования, в том числе для
             государственных нужд, воинские и специальные железнодорожные перевозки.</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

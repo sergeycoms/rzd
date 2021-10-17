@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="aktivaciya_uchetnoi_zapisi">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="aktivaciya_uchetnoi_zapisi">
     <title>Активация учётной записи</title>
-    <body>
+    <conbody>
         <p>Для того, чтобы активировать профиль зарегистрированной учётной записи, необходимо
             перейти на указанный в поле e-mail адрес при регистрации и найти письмо от
             «noreply@rzd.ru», с инструкцией по активации профиля и выполнить её (рисунок 7).</p>
@@ -26,5 +26,5 @@
         <p>В данном окне, на рисунке 8, вы можете нажать вход и перейти к авторизации на сайте.
             После чего откроется окно авторизации, где можно ввести данные «логин» и «пароль»
             указанные при регистрации.</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

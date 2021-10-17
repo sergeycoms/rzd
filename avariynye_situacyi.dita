@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="avariynye_situacyi">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="avariynye_situacyi">
     <title>Аварийные ситуации</title>
-    <body>
+    <conbody>
         <p>Если у вас произошёл сбой при работе сайта, вы можете обратиться за помощью по номеру 8
             800 775-00-00 и +7 (499) 605-20-00. По вопросам, связанным с электронными билетами,
             можно написать на адрес <xref href="mailto:ticket@rzd.ru" format="ru" scope="external"
                 >ticket@rzd.ru</xref>.</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

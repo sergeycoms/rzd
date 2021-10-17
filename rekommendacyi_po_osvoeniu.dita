@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="rekommendacyi_po_osvoeniu">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="rekommendacyi_po_osvoeniu">
     <title>Рекоммендации по освоению</title>
-    <body>
+    <conbody>
         <p>Рекомендуется ознакомиться со всеми разделами данному руководства. А также, материалами
             по ссылкам:</p>
         <p>О сайте</p>
@@ -20,5 +20,5 @@
         <p>Файлы «COOKIES»</p>
         <p><xref href="https://company.rzd.ru/ru/9536/page/103290?id=18491" format="html"
                 scope="external">https://company.rzd.ru/ru/9536/page/103290?id=18491</xref></p>
-    </body>
-</topic>
+    </conbody>
+</concept>

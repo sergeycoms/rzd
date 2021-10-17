@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="vibor_klassa_obslujivaniya_dlya_poezda">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="vibor_klassa_obslujivaniya_dlya_poezda">
     <title>Выбор класса обслуживания для поезда</title>
-    <body>
+    <conbody>
         <p>При наведении на элементы карточки класса обслуживания поезда откроется уточняющая
             информация.</p>
         <p>Выбор осуществляется путём нажатия на карточку, которая будет выделена красной рамкой
@@ -22,5 +22,5 @@
             </image>
         </p>
         <p>Далее откроется страница для выбора места.</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

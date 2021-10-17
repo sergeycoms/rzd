@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="neznachenie_i_usloviya">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="neznachenie_i_usloviya">
     <title>Назначение и условия применения</title>
-    <body>
+    <conbody>
         <p>Сервис предназначена для автоматизации следующих видов деятельности:</p>
         <ul id="ul_kqc_t15_frb">
             <li>Подбор доступных рейсов по указанному пользователем маршруту;</li>
@@ -12,5 +12,5 @@
             <li>Оплата билета;</li>
             <li>Формирование и доставка электронного чека.</li>
         </ul>
-    </body>
-</topic>
+    </conbody>
+</concept>

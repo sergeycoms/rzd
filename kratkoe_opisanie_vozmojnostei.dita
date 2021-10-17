@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="kratkoe_opisanie_vozmojnostei">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="kratkoe_opisanie_vozmojnostei">
     <title>Краткое описание возможностей</title>
-    <body>
+    <conbody>
         <p>Сервис позволяет на основе данных о маршруте подобрать необходимый рейс, условия проезда
             и приобрести электронный билет.</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

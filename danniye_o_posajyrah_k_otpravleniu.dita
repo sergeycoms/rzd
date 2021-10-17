@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="danniye_o_posajyrah_k_otpravleniu">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="danniye_o_posajyrah_k_otpravleniu">
     <title>Данные пассажирах к отправлению</title>
-    <body>
+    <conbody>
         <p>
             <image placement="break" href="images/image22.png" width="635" align="center"
                 id="image_rwb_2y1_grb">
@@ -14,5 +14,5 @@
             данные» будет «выбрать пассажира». </p>
         <p>Чтобы ввести данные нового пассажира, нажмите на кнопку «ввести данные». Откроется
             страница «Данные пассажира.</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

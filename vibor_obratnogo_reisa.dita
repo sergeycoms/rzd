@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="vibor_obratnogo_reisa">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="vibor_obratnogo_reisa">
     <title>Выбор обратного рейса</title>
-    <body>
+    <conbody>
         <p>При нажатии на кнопку «к обратной поездке» в предыдущем разделе, вы вернётесь на главную
             страницу, после чего необходимо повторить все предыдущих шаги в разделах с <xref
                 href="vvod_marshruta.dita">«4.6 Ввод маршрута»</xref> по <xref
@@ -17,5 +17,5 @@
                 <alt>Рисунок 25. Оформление заказа или выбор дополнительные поездки</alt>
             </image>
         </p>
-    </body>
-</topic>
+    </conbody>
+</concept>

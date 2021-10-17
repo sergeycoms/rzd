@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="opisanie_operaciy">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="opisanie_operaciy">
     <title>Описание операций</title>
-    <body>
+    <conbody><section>
         <p>В данном разделе представлен список последовательных операций, позволяющих приобрести
             электронный билет в соответствии с данным маршрута и доступными условиями проезда.</p>
-    </body>
-</topic>
+    </section></conbody>
+</concept>

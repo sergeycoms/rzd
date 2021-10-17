@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="oplata_bileta">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="oplata_bileta">
     <title>Оплата билета</title>
-    <body>
+    <conbody>
         <p>На данной странице необходимо ввести (рисунок 28):</p>
         <ul id="ul_xn5_pz1_grb">
             <li>Номер банковской карты</li>
@@ -20,5 +20,5 @@
             отправлен чек по указанному способу.</p>
         <p>Электронный билет придёт на указанный электронный адрес в разделе «4.10.1 Ввод данных о
             пассажире».</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

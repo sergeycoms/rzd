@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="_1_rukovodstvo">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="_1_rukovodstvo">
     <title>Сервис покупки билетов сайта rzd.ru</title>
-    <body>
+    <conbody>
         <p>Руководство пользователя</p>
         <p>Екатеринбург, 2021</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

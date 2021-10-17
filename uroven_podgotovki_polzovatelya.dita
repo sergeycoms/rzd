@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="uroven_podgotovki_polzovatelya">
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="uroven_podgotovki_polzovatelya">
     <title>Уровень подготовки пользователя</title>
-    <body>
+    <conbody>
         <p>Требуется владение базовыми навыками управления периферией компьютера и работы в
             веб-браузере.</p>
-    </body>
-</topic>
+    </conbody>
+</concept>

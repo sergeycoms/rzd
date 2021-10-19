@@ -78,8 +78,8 @@
                     <topicref href="oformlenie_zakaza.dita"/>
                     <topicref href="oplata_bileta.dita"/>
                 </topicref>
-                <topicref keyref="avariynye_situacyi"/>
-                <topicref keyref="rekommendacyi_po_osvoeniu"/>
+                <topicref href="avariynye_situacyi.dita"/>
+                <topicref href="rekommendacyi_po_osvoeniu.dita"/>
             </relcell>
             <relcell>
                 <topicref href="vhod_v_lichniy_kabinet.dita"/>

@@ -4,10 +4,13 @@
     <title>Выбор места</title>
     <conbody>
         <p>
+            <fig>
+                <title>Страница выбора мест</title>
             <image placement="break" href="images/image21.png" width="635" align="center"
                 id="image_p2h_xx1_grb">
                 <alt>Рисунок 21. Страница выбора мест</alt>
             </image>
+            </fig>
         </p>
         <p>При наведении курсора на некоторые графические элементы, появится уточняющая
             информация.</p>

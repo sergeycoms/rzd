@@ -7,17 +7,23 @@
             рейса с подробной информацией (рисунок 16). При наведении на элементы карточки,
             откроется всплывающее окно с уточняющей информацией.</p>
         <p>
+            <fig>
+                <title>Карточка рейса</title>
             <image placement="break" href="images/image16.png" width="635" align="center"
                 id="image_s53_ww1_grb">
                 <alt>Рисунок 16. Карточка рейса</alt>
             </image>
+            </fig>
         </p>
         <p>Дополнительно можно поделиться ссылкой на карточку рейса (рисунок 17).</p>
         <p>
+            <fig>
+                <title>Поделиться ссылкой на карточку рейса</title>
             <image placement="break" href="images/image17.png" width="400" align="center"
                 id="image_rfj_yw1_grb">
                 <alt>Рисунок 17. Поделиться ссылкой на карточку рейса</alt>
             </image>
+            </fig>
         </p>
     </conbody>
 </concept>

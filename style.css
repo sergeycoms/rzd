@@ -1,1 +1,13 @@
-#
+@page front-page {
+
+size: letter;
+
+margin-top: 1in;
+
+background-image: url("../DITA/images/rzd.svg");
+
+background-repeat: no-repeat;
+
+background-position: 50% 20%;
+
+}

@@ -2,6 +2,17 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="kartochka_reisa">
     <title>Карточка рейса</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <conbody>
         <p>В центральной части страницы отображается список рейсов, представленный в виде карточек
             рейса с подробной информацией (<xref keyref="kartochka_reisa/image_s53_ww1_grb">рисунок

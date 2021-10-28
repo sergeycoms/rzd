@@ -2,6 +2,17 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="oblast_primeneniya">
     <title>Область применения</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Сервис осуществляет свою деятельность в области перевозки пассажиров, грузов, багажа и
             грузобагажа железнодорожным транспортом общего пользования, в том числе для

@@ -2,6 +2,17 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
 <task id="vhod_v_lichniy_kabinet">
     <title>Вход в личный кабинет</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <taskbody>
         <steps>
             <step>

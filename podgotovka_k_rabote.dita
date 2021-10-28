@@ -2,6 +2,17 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="podgotovka_k_rabote">
     <title>Подготовка к работе</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <refbody><section>
         <p>Для работы с сервисом требуется компьютер или телефон, подключённый к интернету и
             позволяющий запустить веб-браузер.</p>

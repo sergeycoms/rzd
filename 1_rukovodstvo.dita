@@ -2,6 +2,17 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="_1_rukovodstvo">
     <title>Сервис покупки билетов сайта rzd.ru</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Руководство пользователя</p>
         <p>Екатеринбург, 2021</p>

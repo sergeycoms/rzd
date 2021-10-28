@@ -2,6 +2,17 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="vibor_obratnogo_reisa">
     <title>Выбор обратного рейса</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <conbody>
         <p>При нажатии на кнопку «к обратной поездке» в предыдущем разделе, вы вернётесь на главную
             страницу, после чего необходимо повторить все предыдущих шаги в разделах с <xref

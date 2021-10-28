@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map xml:lang="ru">
+<map title="dita_map" xml:lang="ru">
     <title>Map</title>
+    <topicmeta>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+        <prodinfo>
+            <prodname>rzd.ru</prodname>
+            <vrmlist>
+                <vrm version="1.0" modification="0"/>
+            </vrmlist>
+        </prodinfo>
+    </topicmeta>
     <topicref href="1_rukovodstvo.dita" keys="1_rukovodstvo"/>
     <topicref href="anotaciya.dita" keys="anotaciya"/>
     <topicref href="vvedenie.dita" keys="vvedenie">

@@ -2,6 +2,17 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="opisanie_operaciy">
     <title>Описание операций</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <conbody><section>
         <p>В данном разделе представлен список последовательных операций, позволяющих приобрести
             электронный билет в соответствии с данным маршрута и доступными условиями проезда.</p>

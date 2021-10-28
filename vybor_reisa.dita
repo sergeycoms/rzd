@@ -2,6 +2,17 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="vybor_reisa">
     <title>Выбор рейса</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <conbody>
         <p>В верхней части сайта вы увидите данные вашего маршрута, заданные на главной странице
                 (<xref keyref="vybor_reisa/image_srj_5v1_grb">рисунок 12</xref>). На основе

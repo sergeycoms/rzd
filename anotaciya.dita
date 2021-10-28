@@ -2,11 +2,22 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="anotaciya">
     <title>Аннотация</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Настоящий документ является руководством пользователя по использованию сервиса покупки
             билетов сайта rzd.ru.</p>
         <p/>
-        <!--В данной строке приведён пример xml комментария-->
+        <!--Приведён пример xml комментария и далее oxygen комментариев-->
         <p>В данном руководстве приводится информация о том, как купить электронный билет для
             железнодорожной перевозки, с помощью предоставленных функций
             <?oxy_comment_start author="Sergey Ilinykh" timestamp="20211015T115804+0500" comment="Пример комментария" id="zgw_fd4_grb"?>

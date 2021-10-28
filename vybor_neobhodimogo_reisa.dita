@@ -2,6 +2,17 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="vybor_neobhodimogo_reisa">
     <title>Выбор необходимого рейса</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <conbody>
         <p>Выбор рейса из списка осуществляется путём нажатия на карточку рейса (<xref
                 keyref="kartochka_reisa/image_s53_ww1_grb">рисунок 16</xref>). После чего,

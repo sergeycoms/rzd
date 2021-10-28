@@ -2,6 +2,17 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="oformlenie_zakaza">
     <title>Оформление заказа</title>
+    <prolog>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-10-28"></revised>
+        </critdates>
+    </prolog>
     <conbody>
         <p>При нажатии на кнопку «оформить заказ», откроется окно, где необходимо ввести номер
             телефона (<xref keyref="oformlenie_zakaza/image_tmb_gz1_grb">рисунок 26</xref>), если

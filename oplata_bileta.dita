@@ -3,7 +3,8 @@
 <concept id="oplata_bileta">
     <title>Оплата билета</title>
     <conbody>
-        <p>На данной странице необходимо ввести (рисунок 28):</p>
+        <p>На данной странице необходимо ввести (<xref keyref="oplata_bileta/image_hqb_5z1_grb"
+                >рисунок 28</xref>):</p>
         <ul id="ul_xn5_pz1_grb">
             <li>Номер банковской карты</li>
             <li>Месяц и год окончания срока действия карты</li>

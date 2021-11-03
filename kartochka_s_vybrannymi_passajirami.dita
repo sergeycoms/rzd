@@ -15,7 +15,7 @@
     </prolog>
     <conbody>
         <p>На этой странице представлены заполненные данные пассажира (<xref
-                keyref="kartochka_s_vybrannymi_passajirami/image_thr_py1_grb">рисунок
+            keyref="kartochka_s_vybrannymi_passajirami/image_thr_py1_grb" type="fig">рисунок
             23</xref>).</p>
         <p>
             <fig>
@@ -37,7 +37,7 @@
             «скидки».</p>
         <p>Далее, на карточке данных о пассажирах необходимо нажать на кнопку «К обратной поездке»,
             находящей под карточкой (<xref
-                keyref="kartochka_s_vybrannymi_passajirami/image_fpb_sy1_grb">рисунок
+                keyref="kartochka_s_vybrannymi_passajirami/image_fpb_sy1_grb" type="fig">рисунок
             24</xref>).</p>
         <fig>
             <title>Кнопка «к обратной поездке»</title>

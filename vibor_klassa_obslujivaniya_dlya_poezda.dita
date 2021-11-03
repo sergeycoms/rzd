@@ -17,7 +17,7 @@
         <p>При наведении на элементы карточки класса обслуживания поезда откроется уточняющая
             информация.</p>
         <p>Выбор осуществляется путём нажатия на карточку, которая будет выделена красной рамкой
-                (<xref keyref="vibor_klassa_obslujivaniya_dlya_poezda/image_y4m_4x1_grb">рисунок
+            (<xref keyref="vibor_klassa_obslujivaniya_dlya_poezda/image_y4m_4x1_grb" type="fig">рисунок
                 19</xref>).</p>
         <p>
             <fig>
@@ -30,7 +30,7 @@
         </p>
         <p>Подтверждение выбор и переход на следующую страницу осуществляется нажатием на кнопку
             «продолжить» под последней карточкой (<xref
-                keyref="vibor_klassa_obslujivaniya_dlya_poezda/image_uxz_qx1_grb">рисунок
+                keyref="vibor_klassa_obslujivaniya_dlya_poezda/image_uxz_qx1_grb" type="fig">рисунок
             20</xref>).</p>
         <p>
             <fig>

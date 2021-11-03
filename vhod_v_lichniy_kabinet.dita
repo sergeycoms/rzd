@@ -16,9 +16,9 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Нажать на кнопку «Вход» (<xref keyref="registraciya_na_saite/image_z5c_gt1_grb"
+                <cmd>Нажать на кнопку «Вход» (<xref keyref="registraciya_na_saite/image_z5c_gt1_grb" type="fig"
                         >рисунок 3</xref>).</cmd>
-                <stepresult>Появивится окно (<xref keyref="vhod_v_lichniy_kabinet/image_bjx_y51_grb"
+                <stepresult>Появивится окно (<xref keyref="vhod_v_lichniy_kabinet/image_bjx_y51_grb" type="fig"
                         >рисунок 9</xref>). <fig>
                         <title>Окно авторизации</title>
                         <image placement="break" href="images/image9.png" width="635" align="center"
@@ -36,7 +36,7 @@
                     <info audience="novice">Пароль необходим тот, который был указан при регистрации.</info>
                     <info><note type="notice">Если пароль забыт, то можно воспользоваться функцией восстановление пароля,
                         нажав строку «Забыли пароль?» в окне авторизации (<xref
-                            keyref="vhod_v_lichniy_kabinet/image_bjx_y51_grb">рисунок 9</xref>) и
+                            keyref="vhod_v_lichniy_kabinet/image_bjx_y51_grb" type="fig">рисунок 9</xref>) и
                         проследовав указанной инструкции.</note></info>
                 </step>
             

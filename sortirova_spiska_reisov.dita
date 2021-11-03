@@ -15,7 +15,7 @@
     </prolog>
     <conbody>
         <p>Справа от боковой панели фильтрации и над списком рейсов, можно выбрать вариант
-            сортировки списка рейсов (<xref keyref="sortirova_spiska_reisov/image_awn_qw1_grb"
+            сортировки списка рейсов (<xref keyref="sortirova_spiska_reisov/image_awn_qw1_grb" type="fig"
                 >рисунок 15)</xref>. На выбор четыре варианта:</p>
         <ul id="ul_ppy_mw1_grb">
             <li>По времени отправления</li>

@@ -18,13 +18,13 @@
             дальнейшем, в том числе при оформлении билета, чтобы их не потерять, в случае если вы
             случайно закроете сайт. </p>
         <p>Чтобы принять cookie-файлы необходимо нажать на кнопку «Принять» расположенную в нижней
-            части экрана сайта (<xref keyref="prinyat_cookie_files/image_osm_445_frb">рисунок
+            части экрана сайта (<xref keyref="prinyat_cookie_files/image_osm_445_frb" type="fig">рисунок
                 1</xref>).</p>
         <p>
             <fig id="fig_nsm_445_frb">
                 <title>Принять куки-файлы</title>
                 <image href="images/image1.png" width="635" align="center"
-                    id="image_osm_445_frb">
+                    id="image_osm_445_frb" >
                     <alt>Рисунок 1. Принять куки-файлы</alt>
                 </image>
             </fig>

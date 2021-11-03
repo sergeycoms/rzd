@@ -14,7 +14,7 @@
         </critdates>
     </prolog>
     <conbody>
-        <p>На данной странице необходимо ввести (<xref keyref="oplata_bileta/image_hqb_5z1_grb"
+        <p>На данной странице необходимо ввести (<xref keyref="oplata_bileta/image_yhw_thm_krb"
                 >рисунок 28</xref>):</p>
         <ul id="ul_xn5_pz1_grb">
             <li>Номер банковской карты</li>
@@ -23,12 +23,10 @@
             <li>CVV2 (CVC2)</li>
         </ul>
         <p>
-            <fig>
+            <fig id="fig_xhw_thm_krb">
                 <title>Заполнение данных карты оплаты</title>
-            <image placement="break" href="images/image28.png" width="635" align="center"
-                id="image_hqb_5z1_grb">
-                <alt>Рисунок 28. Заполнение данных карты оплаты</alt>
-            </image>
+                <image href="images/image28.png" width="635" id="image_yhw_thm_krb" alt="Рисунок 28"
+                />
             </fig>
         </p>
         <p>После заполнения нажать «Оплатить». Произойдёт списание средств с указанной карты и будет

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd" [
+<!ENTITY v "выше">
+]>
 <reference id="podgotovka_k_rabote">
     <title>Подготовка к работе</title>
     <prolog>
@@ -17,7 +19,8 @@
         <p>Для работы с сервисом требуется компьютер или телефон, подключённый к интернету и
             позволяющий запустить веб-браузер.</p>
         <p>Взаимодействие с сайтом разрешается только с использованием стандартных
-            программ-браузеров указанных в таблице 1.</p>
+                программ-браузеров указанных в <xref keyref="podgotovka_k_rabote/table_browsers"
+                   type="table" >таблице 1</xref>.</p>
         
         <table frame="all" rowsep="1" colsep="1" id="table_browsers">
         <title>Совместимость сайта с браузерами</title>
@@ -33,30 +36,30 @@
             <tbody>
                 <row>
                     <entry><p>Google Chrome</p></entry>
-                    <entry><p>80 и выше.</p></entry>
+                    <entry><p>80 и &v;.</p></entry>
                 </row>
                 <row>
                     <entry><p>Яндекс.Браузер</p></entry>
-                    <entry><p>20 и выше.</p></entry>
+                    <entry><p>20 и &v;.</p></entry>
                 </row>
                 <row>
                     <entry><p>Opera</p></entry>
-                    <entry><p>67 и выше.</p></entry>
+                    <entry><p>67 и &v;.</p></entry>
                 </row>
                 <row>
                     <entry><p>Firefox</p></entry>
-                    <entry><p>75 и выше.</p></entry>
+                    <entry><p>75 и &v;.</p></entry>
                 </row>
                 <row>
                     <entry><p>Edge</p></entry>
-                    <entry><p>18 и выше.</p></entry>
+                    <entry><p>18 и &v;.</p></entry>
                 </row>
                 <row>
                     <entry morerows="1"><p>Safari</p></entry>
-                    <entry><p>MacOS 12 и выше.</p></entry>
+                    <entry><p>MacOS 12 и &v;.</p></entry>
                 </row>
                 <row>
-                    <entry><p>Windows 11 и выше.</p></entry>
+                    <entry><p>Windows 11 и &v;.</p></entry>
                 </row>
                 <row>
                     <entry namest="c1" nameend="c2"><p>Сайт может работать в неуказанных браузерах, но

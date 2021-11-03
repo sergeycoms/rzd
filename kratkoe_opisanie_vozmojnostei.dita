@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="kratkoe_opisanie_vozmojnostei">
+    <title>Краткое описание возможностей</title>
     <prolog>
         <author>Sergey Ilinykh</author>
         <copyright>
@@ -12,7 +13,6 @@
             <revised modified="2021-10-28"></revised>
         </critdates>
     </prolog>
-    <title>Краткое описание возможностей</title>
     <conbody>
         <p>Сервис позволяет на основе данных о маршруте подобрать необходимый рейс, условия проезда
             и приобрести электронный билет.</p>

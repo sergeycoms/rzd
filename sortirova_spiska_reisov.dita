@@ -26,7 +26,7 @@
         <p>
             <fig>
                 <title>Сортировки списка рейсов</title>
-            <image placement="break" href="images/image15.png" width="635" align="center"
+                <image placement="break" keyref="image15" width="635" align="center"
                 id="image_awn_qw1_grb">
                 <alt>Рисунок 15. Сортировки списка рейсов</alt>
             </image>

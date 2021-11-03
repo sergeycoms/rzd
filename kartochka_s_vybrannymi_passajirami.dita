@@ -20,7 +20,7 @@
         <p>
             <fig>
                 <title>Карточка данных пассажира</title>
-            <image placement="break" href="images/image23.png" width="400" align="center"
+                <image placement="break" keyref="image23" width="400" align="center"
                 id="image_thr_py1_grb">
                 <alt>Рисунок 23. Карточка данных пассажира</alt>
             </image>
@@ -41,7 +41,7 @@
             24</xref>).</p>
         <fig>
             <title>Кнопка «к обратной поездке»</title>
-        <image placement="break" href="images/image24.png" width="635" align="center"
+            <image placement="break" keyref="image24" width="635" align="center"
             id="image_fpb_sy1_grb">
             <alt>Рисунок 24. Кнопка «к обратной поездке»</alt>
         </image>

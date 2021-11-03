@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" [
-<!ENTITY s SYSTEM "list.dtd">
-]>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="vvod_marshruta">
     <title>Ввод маршрута</title>
     <prolog>
@@ -25,7 +23,7 @@
         <p>
             <fig>
                 <title>Поля для заполнения данных о маршруте</title>
-            <image placement="break" href="images/image10.png" width="635" align="center"
+                <image placement="break" keyref="image10" width="635" align="center"
                 id="image_a2m_hv1_grb">
                 <alt>Рисунок 10. Поля для заполнения данных о маршруте</alt>
             </image>
@@ -38,7 +36,7 @@
         <p>
             <fig>
                 <title>Выбор даты отправления и возвращения</title>
-            <image placement="break" href="images/image11.png" width="635" align="center"
+                <image placement="break" keyref="image11" width="635" align="center"
                 id="image_cd3_jv1_grb">
                 <alt>Рисунок 11. Выбор даты отправления и возвращения</alt>
             </image>
@@ -52,19 +50,19 @@
                 </sthead>
                 <strow>
                     <stentry>Красный</stentry>
-                    <stentry>За 45 &s;</stentry>
+                    <stentry>За 45 1</stentry>
                 </strow>
                 <strow>
                     <stentry>Жёлтый</stentry>
-                    <stentry>За 60 &s;</stentry>
+                    <stentry>За 60 1</stentry>
                 </strow>
                 <strow>
                     <stentry>Зелёный</stentry>
-                    <stentry>За 90 &s;</stentry>
+                    <stentry>За 90 1</stentry>
                 </strow>
                 <strow>
                     <stentry>Фиолетовый</stentry>
-                    <stentry>За 120 &s;</stentry>
+                    <stentry>За 120 1</stentry>
                 </strow>
             </simpletable>
         </p>

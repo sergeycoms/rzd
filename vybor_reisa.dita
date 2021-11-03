@@ -20,7 +20,7 @@
         <p>
             <fig>
                 <title>Данные маршрута на странице выбора рейса</title>
-            <image placement="break" href="images/image12.png" width="635" align="center"
+                <image placement="break" keyref="image12" width="635" align="center"
                 id="image_srj_5v1_grb">              
                 <alt>Рисунок 12. Данные маршрута на странице выбора рейса</alt>
             </image>
@@ -32,7 +32,7 @@
         <p>
             <fig>
                 <title>Рейсы с пересадками</title>
-            <image placement="break" href="images/image13.png" width="635" align="center"
+                <image placement="break" keyref="image13" width="635" align="center"
                 id="image_nkb_wv1_grb">
                 <alt>Рисунок 13. Рейсы с пересадками</alt>
             </image>

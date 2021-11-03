@@ -18,11 +18,11 @@
             электронного билета.</p>
         <p>Для того, чтобы зарегистрироваться на сайте, необходимо нажать на кнопку «Вход»,
             расположенную в правой верхней части сайта (<xref
-                keyref="registraciya_na_saite/image_xxn_zs1_grb" type="fig">рисунок 2</xref>).</p>
+                keyref="registraciya_na_saite/image_xxn_zs1_grb">рисунок 2</xref>).</p>
         <p>
             <fig>
                 <title>Расположение кнопки вход</title>
-            <image placement="break" href="images/image2.png" width="635" align="center"
+                <image placement="break" keyref="image2" width="635" align="center"
                 id="image_xxn_zs1_grb">
                 <alt>Рисунок 2. Расположение кнопки вход</alt>
             </image>
@@ -31,17 +31,17 @@
         <p>В появившемся окне нажать на слово «Регистрация» (<xref
                 keyref="registraciya_na_saite/image_z5c_gt1_grb">рисунок 3</xref>)</p>
         <p>
-            <image placement="break" href="images/image3.png" width="635" align="center"
+            <image placement="break" keyref="image3" width="635" align="center"
                 id="image_z5c_gt1_grb">
                 <alt>Рисунок 3. Расположение кнопки «Регистрация»</alt>
             </image>
         </p>
         <p>В следующем окне вы увидите форму регистрации (<xref
-                keyref="registraciya_na_saite/image_f3k_lt1_grb">рисунок 4)</xref>.</p>
+                keyref="registraciya_na_saite/image_f3k_lt1_grb">рисунок 4</xref>).</p>
         <p>
             <fig>
                 <title>Форма регистрации</title>
-            <image placement="break" href="images/image4.png" width="300" align="center"
+                <image placement="break" keyref="image4" width="300" align="center"
                 id="image_f3k_lt1_grb">
                 <alt>Рисунок 4. Форма регистрации</alt>
             </image>
@@ -50,24 +50,24 @@
         <p>Необходимо заполнить обязательные поля со звёздочкой (*) и поставить галочку на чек-боксе
             в поле «Даю своё согласие ОАО «РЖД» на обработку представ­ленных мной персональных
             данных. Политика обработки персональных данных в ОАО «РЖД» (<xref
-                keyref="registraciya_na_saite/image_qrp_qt1_grb"  type="fig">рисунок 5</xref>).</p>
+                keyref="registraciya_na_saite/image_qrp_qt1_grb">рисунок 5</xref>).</p>
         <p>При наведении на знак вопроса рядом с заголовком поля откроется требование к заполнению. </p>
         <p>По завершению нажать на кнопку «Зарегистрироваться».</p>
         <p>
             <fig>
                 <title>Согласие на обработку персональных данных</title>
-            <image placement="break" href="images/image5.png" width="635" align="center"
+                <image placement="break" keyref="image5" width="635" align="center"
                 id="image_qrp_qt1_grb">
                 <alt>Рисунок 5. Согласие на обработку персональных данных</alt>
             </image>
             </fig>
         </p>
         <p>При успешной регистрации откроется информационное окно (<xref
-            keyref="registraciya_na_saite/image_jzg_5t1_grb" type="fig">рисунок 6</xref>).</p>
+                keyref="registraciya_na_saite/image_jzg_5t1_grb">рисунок 6)</xref>.</p>
         <p>
             <fig>
                 <title>Окно успешной регистрации</title>
-            <image placement="break" href="images/image6.png" width="400" align="center"
+                <image placement="break" keyref="image6" width="400" align="center"
                 id="image_jzg_5t1_grb">
                 <alt>Рисунок 6. Окно успешной регистрации</alt>
             </image>

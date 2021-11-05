@@ -22,7 +22,7 @@
         <p>
             <fig>
                 <title>Карточки класса обслуживания поезда</title>
-                <image placement="break" keyref="image19" width="635" align="center"
+                <image keyref="image19" width="635" align="center"
                 id="image_y4m_4x1_grb">
                 <alt>Рисунок 19. Карточки класса обслуживания поезда</alt>
             </image>
@@ -35,7 +35,7 @@
         <p>
             <fig>
                 <title>Кнопка «продолжить»</title>
-                <image placement="break" keyref="image20" width="635" align="center"
+                <image keyref="image20" width="635" align="center"
                 id="image_uxz_qx1_grb">
                 <alt>Рисунок 20. Кнопка «продолжить»</alt>
             </image>

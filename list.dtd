@@ -1,1 +1,2 @@
-<!ENTITY s "суток">
+<!ELEMENT custom (#PCDATA)>
+<!ENTITY v "выше">

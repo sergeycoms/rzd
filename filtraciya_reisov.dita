@@ -34,7 +34,7 @@
         <p>
             <fig>
                 <title>Фильтрация параметров рейса</title>
-                <image placement="break" keyref="image14" width="250" align="center"
+                <image keyref="image14" width="250" align="center"
                 id="image_x12_fw1_grb">
                 <alt>Рисунок 14. Фильтрация параметров рейса</alt>
             </image>

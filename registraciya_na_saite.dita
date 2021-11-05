@@ -22,7 +22,7 @@
         <p>
             <fig>
                 <title>Расположение кнопки вход</title>
-                <image placement="break" keyref="image2" width="635" align="center"
+                <image keyref="image2" width="635" align="center"
                 id="image_xxn_zs1_grb">
                 <alt>Рисунок 2. Расположение кнопки вход</alt>
             </image>
@@ -41,7 +41,7 @@
         <p>
             <fig>
                 <title>Форма регистрации</title>
-                <image placement="break" keyref="image4" width="300" align="center"
+                <image keyref="image4" width="300" align="center"
                 id="image_f3k_lt1_grb">
                 <alt>Рисунок 4. Форма регистрации</alt>
             </image>
@@ -56,7 +56,7 @@
         <p>
             <fig>
                 <title>Согласие на обработку персональных данных</title>
-                <image placement="break" keyref="image5" width="635" align="center"
+                <image keyref="image5" width="635" align="center"
                 id="image_qrp_qt1_grb">
                 <alt>Рисунок 5. Согласие на обработку персональных данных</alt>
             </image>
@@ -67,7 +67,7 @@
         <p>
             <fig>
                 <title>Окно успешной регистрации</title>
-                <image placement="break" keyref="image6" width="400" align="center"
+                <image keyref="image6" width="400" align="center"
                 id="image_jzg_5t1_grb">
                 <alt>Рисунок 6. Окно успешной регистрации</alt>
             </image>

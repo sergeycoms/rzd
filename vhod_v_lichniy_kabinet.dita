@@ -21,7 +21,7 @@
                 <stepresult>Появивится окно (<xref keyref="vhod_v_lichniy_kabinet/image_bjx_y51_grb" type="fig"
                         >рисунок 9</xref>). <fig>
                         <title>Окно авторизации</title>
-                            <image placement="break" keyref="image9" width="635" align="center"
+                            <image keyref="image9" width="635" align="center"
                             id="image_bjx_y51_grb">
                             <alt>Рисунок 9. Окно авторизации</alt>
                         </image>

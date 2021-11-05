@@ -17,7 +17,7 @@
         <p>
             <fig>
                 <title>Данные о пассажирах к отправлению</title>
-                <image placement="break" keyref="image22" width="635" align="center"
+                <image keyref="image22" width="635" align="center"
                 id="image_rwb_2y1_grb">
                 <alt>Рисунок 22. Данные о пассажирах к отправлению</alt>
             </image>

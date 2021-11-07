@@ -15,7 +15,7 @@
     </prolog>
     <conbody>
         <p>В центральной части страницы отображается список рейсов, представленный в виде карточек
-            рейса с подробной информацией (<xref keyref="kartochka_reisa/image_s53_ww1_grb" type="fig">рисунок
+            рейса с подробной информацией (<xref keyref="kartochka_reisa/image_s53_ww1_grb">рисунок
                 16</xref>). При наведении на элементы карточки, откроется всплывающее окно с
             уточняющей информацией.</p>
         <p>
@@ -28,7 +28,7 @@
             </fig>
         </p>
         <p>Дополнительно можно поделиться ссылкой на карточку рейса (<xref
-            keyref="kartochka_reisa/image_rfj_yw1_grb" type="fig">рисунок 17</xref>).</p>
+            keyref="kartochka_reisa/image_rfj_yw1_grb">рисунок 17</xref>).</p>
         <p>
             <fig>
                 <title>Поделиться ссылкой на карточку рейса</title>

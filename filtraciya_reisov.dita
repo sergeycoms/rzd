@@ -15,7 +15,7 @@
     </prolog>
     <conbody>
         <p>В левой части сайта вы увидите боковую панель с возможностью фильтрации рейсов по
-            заданным параметрам (<xref keyref="filtraciya_reisov/image_x12_fw1_grb" type="fig">рисунок
+            заданным параметрам (<xref keyref="filtraciya_reisov/image_x12_fw1_grb">рисунок
                 14</xref>):</p>
         <ul id="ul_gcd_cw1_grb">
             <li>стоимость</li>

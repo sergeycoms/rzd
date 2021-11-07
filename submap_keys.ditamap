@@ -2,6 +2,23 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id = "keydefs">
     <title>submap-keys</title>
+    <topicmeta>
+        <author>Sergey Ilinykh</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>cbr.ru</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-10-12"></created>
+            <revised modified="2021-11-08"></revised>
+        </critdates>
+        <prodinfo>
+            <prodname>rzd.ru</prodname>
+            <vrmlist>
+                <vrm version="1.0" modification="0"/>
+            </vrmlist>
+        </prodinfo>
+    </topicmeta>
     <keydef  keys = "image1"  href = "../DITA/images/image1.png"  format = "png" /> 
     <keydef  keys = "image2"  href = "../DITA/images/image2.png"  format = "png" /> 
     <keydef  keys = "image3"  href = "../DITA/images/image3.png"  format = "png" /> 

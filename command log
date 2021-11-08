@@ -1,0 +1,511 @@
+    7  git status
+    8  git clean -n
+    9  git clean -f
+   10  git log
+   11  git remote add origin https://github.com/sergeycoms/nail.git
+   12  git remote -v
+   13  git push origin master
+   14  git remote add origin https://github.com/sergeycoms/my-test-github.git
+   15  git remote add origin https://github.com/sergeycoms/nail.git
+   16  git pull origin master
+   17  git pull origin main
+   18  ls -al ~/.ssh
+   19  $ ssh-keygen -t ed25519 -C "88929888+sergeycoms@users.noreply.github.com"
+   20  ssh-keygen -t ed25519 -C "88929888+sergeycoms@users.noreply.github.com"
+   21  eval "$(ssh-agent -s)"
+   22  ssh-add ~/.ssh/id_ed25519
+   23  clip < ~/.ssh/id_ed25519.pub
+   24  ls
+   25  git clone git@github.com:sergeycoms/my-test-github.git
+   26  atom .
+   27  atom .
+   28  git clone git@github.com:sergeycoms/my-test-github.git
+   29  git remote -v
+   30  git remote -v
+   31  git bracnh add-feature1
+   32  git branch add-feature1
+   33  git branch
+   34  git checkout add-feature1
+   35  git branch
+   36  git status
+   37  git add .
+   38  fit commit -m "add file3"
+   39  git commit -m "add file3"
+   40  git log
+   41  git checkout master
+   42  git checkout main
+   43  git log
+   44  git checkout add-feature1
+   45  git log
+   46  git log
+   47  git checkout main
+   48  git branch
+   49  git merge add-feature1
+   50  git lof
+   51  git log
+   52  git branch -d add-feature1
+   53  git branch
+   54  git log
+   55  git branch add-f2
+   56  git checkout add
+   57  git checkout add-f2
+   58  git add .
+   59  git commit -m "add file4"
+   60  git log
+   61  git  checkout main
+   62  git status
+   63  git add .
+   64  git commit -m "bax fixed critical file1"
+   65  git checkout "add-f2"
+   66  git checkout main
+   67  git merge add-f2
+   68  git merge add-f2
+   69  git status
+   70  git add .
+   71  git merge add-f2
+   72  git checkout main
+   73   git merge add-f2
+   74   git checkout add-f2
+   75  ghit checkout main
+   76  git checkout main
+   77  git checkout main
+   78   git checkout add-f2
+   79  git checkout main
+   80   git checkout add-f2
+   81  git log
+   82  git checkout main
+   83  git merge add-f2
+   84  ls
+   85  git branch add-f1
+   86   git chekout add-f1
+   87   git checkout add-f1
+   88  git add .
+   89  git commit -m "change file1"
+   90  git checkout main
+   91  git add .
+   92  git commit -m "change file 1 to evening"
+   93  git checkout add-f1
+   94  git chekout main
+   95  git checkout main
+   96  git merge add-f1
+   97  git status
+   98  git branch
+   99  git add .
+  100  git commit
+  101  git status
+  102  git add .
+  103  rm -rf .git
+  104  rm -rf .git
+  105  git config --global user.name "Sergey Ilinykh"
+  106  git config --global user.email onbrav@gmail.com
+  107  pwd
+  108  cd 
+  109  pwd
+  110  cd C:\Users\isvco\Desktop
+  111  cd c:\Users\isvco\Desktop
+  112  cd c/Users/isvco/Desktop
+  113  cd "c:\Users\isvco\Desktop"
+  114  pwd
+  115  mkdir rzd.ru
+  116  mkdir rzd.ru
+  117  cd rzd.ru
+  118  pwd
+  119  git init
+  120  git status
+  121  git add readme.txt
+  122  git status
+  123  git status
+  124  git add readme.txt
+  125  git status
+  126  git rm --cached readme.txt
+  127  git status
+  128  git add .
+  129  git status
+  130  git commit -m "Создать readme.txt
+  131  Пустой файл"
+  132  git status
+  133  git log
+  134  git commit --amend -m "Создать readme.txt
+  135  Пустой файл."
+  136  git log
+  137  git rm readme.txt
+  138  git status
+  139  git log
+  140  git reset HEAD~
+  141  git reset --hard HEAD~1
+  142  git reset --hard
+  143  git status
+  144  git log
+  145  git reset --hard HEAD^
+  146  git status
+  147  git status
+  148  git log
+  149  rm -rf .git
+  150  mkdir DITA
+  151  rm -rf .git
+  152  git init
+  153  git branch dev
+  154  touch readme.txt
+  155  git add .
+  156  git status
+  157  git commit -m "Создать readme.txt
+  158  Пустой  файл. Для того, чтобы определить master ветку."
+  159  пше дщп
+  160  git log
+  161  git branch dev
+  162  git branch
+  163  git checkout dev
+  164  git branch
+  165  git status
+  166  git add .
+  167  git config --global core.autocrlf false
+  168  git status
+  169  git commit -m "Создать map.ditamap
+  170  Создать карту."
+  171  git status
+  172  git log
+  173  git status
+  174  git commit -m "Создать topic dita
+  175  Создаёт пустой топик для главной страницы."
+  176  git add .
+  177  git commit -m "Создать topic dita
+  178  Создаёт пустой топик для главной страницы."
+  179  git status
+  180  git log
+  181  git status
+  182  git add .
+  183  git commit -m "Создать topic Аннотация
+  184  Пустой топик."
+  185  gitl og
+  186  git log
+  187  git log
+  188  git status
+  189  git status
+  190  git add .
+  191  git commit -m "Создать topic Введение
+  192  Пустой топик."
+  193  git status
+  194  git add .
+  195  git commit -m "Создать topic Назначения и условия применения
+  196  Пустой файл."
+  197  git add .
+  198  git commit -m "Создать topic Подготовка к работе
+  199  Пустой файл."
+  200  git add .
+  201  git commit -m "Создать topic Описание операций
+  202  Пустой файл."
+  203  git add .
+  204  git commit -m "Создать topic Вход на сайт
+  205  Пустой файл."
+  206  git add .
+  207  git commit -m " Создать topic Принять cookie-файлы
+  208  Пустой файл."
+  209  git add .
+  210  git commit -m "Создать topic Регистрация на сайте
+  211  Пустой файл."
+  212  git add .
+  213  git commit -m "Создать topic Активация учетной записи
+  214  Пустой файл."
+  215  git add .
+  216  git commit -m "Создать topic Вход в личный кабинет
+  217  Пустой файл."
+  218  git add .
+  219  git commit -m "Создать topic Ввод маршрута
+  220  Пустой файл."
+  221  git add .
+  222  git commit -m "Создать topic Выбор рейса
+  223  Пустой файл."
+  224  git add .
+  225  git commit -m "Создать topic Фильтрация рейсов
+  226  Пустой файл."
+  227  git add .
+  228  git commit -m "Создать topic Сортировка списка рейсов
+  229  пустой файл."
+  230  git add .
+  231  git commit -m "Создать topic Карточка рейса
+  232  Пустой файл."
+  233  git add .
+  234  git commit -m "Создать topic Выбор необходимого рейса
+  235  Пустой файл."
+  236  git add .
+  237  git commit -m "Создать topic Выбор класса обслуживания длля поезда
+  238  Пустой файл."
+  239  git add .
+  240  git commit -m "Создать topic Выбор места
+  241  Пустой файл."
+  242  git add .
+  243  git commit -m "Создать topic Данные о поссажирах к отправлению
+  244  Пустой файл."
+  245  git add .
+  246  git commit -m "Создать topic Ввод данных о пассажире
+  247  Пустой файл."
+  248  git add .
+  249  git commit -m "Создать topic Карточка с выбранными пассажирами
+  250  Пустой файл."
+  251  git add .
+  252  git commit -m "Создать topic Выбор обратного рейса
+  253  Пустой файл."
+  254  git add .
+  255  git commit -m "Создать topic Оформление заказа
+  256  Пустой файл."
+  257  git add .
+  258  git commit -m "Создать topic Оплата билета
+  259  Пустой файл."
+  260  git add .
+  261  git commit -m "Создать topic Аварийные ситуации
+  262  Пустой файл."
+  263  git add .
+  264  git commit -m "Создать topic Рекоммендации по освоению
+  265  Пустой файл."
+  266  git status
+  267  git add .
+  268  git status
+  269  git commit -m "Внести контент в топик Аннотация
+  270  git status
+  271  git add .
+  272  git commit -m "Сделать ссылки в топик - Выбор обратного рейса
+  273  Проставлены две ссылки на разделы."
+  274  git status
+  275  git add .
+  276  git commit -m "Внести исправление таблицы в топик - Ввод маршрута
+  277  Изменяет заголовок второго столбца."
+  278  git status
+  279  git status
+  280  git add .
+  281  git commit -m "Сделать маркированный список в топике - Аннотация и форму таблицы отношений в map.
+  282  git status
+  283  git restore --staged map.ditamap
+  284  git status
+  285  git commit -m "Сделать маркированнный список в топике - Аннотация
+  286  Делает список разделов маркированным, вместо обычных строчек с дефисом."
+  287  git status
+  288  git add map.ditamap
+  289  git status
+  290  git commit -m "Сделать форму reltable
+  291  Делает в файле map форму таблицы отношений."
+  292  git status
+  293  git status
+  294  git add .
+  295  git commit -m "Преобразовать в reference топик - Подготовка к работе
+  296  Операция выполняется через функцию convert to reference."
+  297  git status
+  298  git add .
+  299  git commit -m "Заполнить таблицу отношений
+  300  Добавляет все топики в таблицу отношений."
+  301  git status
+  302  git checkout .
+  303  git status
+  304  git checkout .
+  305  git status
+  306  git status
+  307  git add .
+  308  git status
+  309  git restore --staged submap_keys.ditamap
+  310  git status
+  311  git status
+  312  git commit -m "Преобразовать базовые топики в concept
+  313  Через функцию refactoring, convert to, конвертирует все топики в concept кроме reference и task."
+  314  git status
+  315  git add .
+  316  git commit -m "Создать дочернюю карту главной карты
+  317  Создаёт submap.ditamap для определния ключей топиков."
+  318  git status
+  319  git add .
+  320  git commit -m "Задать ключи для топиков
+  321  Делает ключи для топиков через edit properies и вносит их в map.ditamap."
+  322  git status
+  323  git status
+  324  git add submap_keys.ditamap
+  325  git status
+  326  git add .
+  327  git status
+  328  git add -m "Задать ключи изображениям
+  329  $ git commit -m "Задать ключи изображениям
+  330  >
+  331  $ git commit -m "Задать ключи изображениям
+  332  Задаёт ключи изображениями в submap_keys.ditamap. И удаляет тестовую папку out."
+  333  git commit -m "Задать ключи изображениям
+  334  Задаёт ключи изображениями в submap_keys.ditamap. И удаляет тестовую папку out."
+  335  git status
+  336  git status
+  337  git status
+  338  git restore 
+  339  git restore vhod_v_lichniy_kabinet.dita
+  340  git status
+  341  git add .
+  342  git commit -m "Задать путь для ключей в submap_keys.dita
+  343  Задаёт путь изображениям для ключей указанных в сабкарте."
+  344  git status
+  345  git checkout .
+  346  git status
+  347  git add .
+  348  git commit -m "Добавить ссылки на рисунки
+  349  Ссылка через xref с атрибутом keyref"
+  350  git status
+  351  git add .
+  352  git commit -m "Добавить таблице 1 границы
+  353  Добавляет аттрибуты frame rowsep colsep"
+  354  git status
+  355  git add .
+  356  git commit -m "Добавить метаданные во все топики и карту
+  357  Добавляет author, copyright, critdates и отдельно prodinfo в карту."
+  358  git status
+  359  git add .
+  360  git commit -m "Добавить метатеги в топик - Вход в личный кабинет
+  361  Добавляет метатег info audience novice".
+  362  git status
+  363  git add .
+  364  git commit -m "Добавить сущность в топик - Подготовка к работе
+  365  Добавляет сущность v - выше. А также исправляет мелкие недочёты в топиках."
+  366  git status
+  367  git add .
+  368  git commit -m "Добавить type fig в код ссылок на рисунки
+  369  Добавляет данный атрибут во все топики, где есть ссылки на рисунки."
+  370  git status
+  371  git add /.
+  372  git add .
+  373  git commit -m "Добавить keyref элементу image
+  374  git commit -m "Добавить keyref элементам image
+  375  Добавляет ключи к рисункам во все топики с изображениями."
+  376  git status
+  377  git add .
+  378  git commit -m "Добавить keyref в relation table
+  379  Добавляет в карту атрибут keyref к каждому топику в карте."
+  380  git status
+  381  git add .
+  382  git commit -m "Изменить title в карту
+  383  git commit -m "Изменить title в карте
+  384  Меняет на Руководство пользователя."
+  385  git status
+  386  git add .
+  387  git commit -"Убрать везде атрибут placement brake
+  388  Удаляет данный атрибут из всех топиков, т.к. обозначен лишним."
+  389  git commit -m "Убрать атрибут placement brake
+  390  Удаляет из изображений, т.к. обозначен лишним."
+  391  git status
+  392  git status
+  393  git add .
+  394  gid commit -m "Сделать reuse контент функции - забыли пароль
+  395  git commit -m "Сделать reuse контент функции - забыли пароль
+  396  git commit -m "Сделать reuse контент функции - забыли пароль
+  397  Добавляет в топик Вход в личный кабинет id для note. И дублирует содержание в топик Выбор необходимого рейса, через conkeyref."
+  398  git status
+  399  git add .
+  400  git commit -m "Удалить атрибут type и ссылок
+  401  git commit -m "Удалить атрибут type из ссылок
+  402  git commit -m "Удалить атрибут type и ссылок
+  403  Удаляет данный атрибут из всех ссылок на изображение в проекте."
+  404  git status
+  405  git reset HEAD~
+  406  git status
+  407  git status
+  408  git add .
+  409  $ git commit -m "Удалить атрибут type и ссылок
+  410  >
+  411  $ git commit -m "Удалить атрибут type и ссылок
+  412  git commit -m "Удалить атрибут type и ссылок
+  413  Удаляет данный атрибут из всех ссылок на изображение в проекте."
+  414  git diff 5f9e91d 5b4e89e
+  415  git show 
+  416  q
+  417  git show 
+  418  q
+  419  git show 
+  420  git show ab1b542
+  421  git help reset
+  422  git remote -v
+  423  git remote add origin git@github.com:sergeycoms/rzd.git
+  424  git remote -v
+  425  git push origin dev
+  426  touch .gitignore
+  427  git status
+  428  git add .
+  429  git commit -m "Создать файл .gitignor с содержимым
+
+  430  git commit -m "Создать файл .gitignore с содержимым
+
+  431  git commit -m "Создать файл .gitignore с содержимым
+
+
+Добавляет в игнорирование системные файлы windows и файлы обозначенные в обучающем документе."
+  432  git log
+  433  git push origin dev
+  434  git help merge
+  435  git checkout main
+  436  git status
+  437  git checkout master
+  438  git status
+  439  git merge dev -m "Слияние ветки dev с master"
+  440  git status
+  441  git push origin master
+  442  git checkout -b vetka8
+  443  git status
+  444  git checkout dev
+  445  git log --pretty=format:"%H - %cd, %cn, %ce" > log.log
+  446  git checkout vetka8
+  447  git rebase dev
+  448  git status
+  449  git log
+  450  git checkout -b testmerge
+  451  git checkout master
+  452  git checkout testmerge
+  453  git merge -m "Тест заголовка при слиянии" dev
+  454  git merge -m "Тест заголовка при слиянии" vetka8
+  455  git merge -m "Тест заголовка при слиянии" dev
+  456  git merge -m "Тест заголовка при слиянии" main
+  457  git status
+  458  git checkout dev
+  459  git status
+  460  git checkout vetka8
+  461  git status
+  462  git show
+  463  git checkout dev
+  464  git show
+  465  git status
+  466  git status
+  467  git hist
+  468  git checkout dev
+  469  git branch -d testmerge
+  470  git branch -d vetka8
+  471  git branch -d master
+  472  git status
+  473  git checkout master
+  474  git status
+  475  git checkout dev
+  476  git status
+  477  git checkout master
+  478  git push origin -d master
+  479  git status
+  480  git merge -m "Слить ветку dev с веткой master" dev
+  481  git log --graph --oneline --all
+  482  git reset --hard
+  483  git log --graph --oneline --all
+  484  git push origin master
+  485  git checkout -b vetka8
+  486  git checkout dev
+  487  git log --pretty=format:"%H - %cd, %cn, %ce" > log.log
+  488  git status
+  489  git checkout 8
+  490  git checkout vetka8
+  491  git status
+  492  git commit -m "Изменить дату в топиках и картах
+
+Изменяет revised modified".
+  493  git add .
+  494  git commit -m "Изменить дату в топиках и картах
+
+Изменяет revised modified".
+  495  git checkout master
+  496  git merge -m "Слить ветку vetka8 с master" vetka8
+  497  git checkout -b vetka13
+  498  git status
+  499  git add .
+  500  git commit -m "Добавить конфигурационный файл git
+
+Из локального репозитория."
+  501  git reflog
+  502  git reflog -all
+  503  git reflog --all
+  504  history
+  505  history > path/to/file
+  506  history > C:\Users\isvco\Desktop\DITA
